@@ -2,7 +2,7 @@
 
 ## Description
 
-The **Face Recognition System** utilizes the **face_recognition** library, powered by deep learning models, to effectively detect and recognize faces. This system comprises several stages: data loading, model training, model evaluation, and real-time face recognition, including a mechanism for spoof detection to enhance security.
+The **Face Recognition System** uses the **face_recognition** library, powered by deep learning models, to effectively detect and recognise faces. This system comprises several stages: data loading, model training, model evaluation, and real-time face recognition, including a mechanism for spoof detection to enhance security.
 
 
 ## Features
@@ -17,7 +17,7 @@ The **Face Recognition System** utilizes the **face_recognition** library, power
 
 - **Real-Time Recognition**: Captures video frames, detects faces, and allows for user interaction when unknown faces are encountered.
 
-- **User Interface**: Built with **tkinter** for dialogs and **matplotlib** for real-time video feed, featuring buttons for marking attendance and quitting the application.
+- **User Interface**: Built with **tkinter** for dialogues and **matplotlib** for real-time video feed, featuring buttons for marking attendance and quitting the application.
 
 
 ## Results
